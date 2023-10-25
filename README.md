@@ -1,4 +1,4 @@
-# SQL Challenge - Employee Database Analysis
+# Employee Database Analysis
 
 ## Overview
 
